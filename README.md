@@ -1,6 +1,6 @@
 Hi, I'm Jake,
 
-## I have worked on
+#### I have worked on
 
 - Online Poker / Sportsbooks / Fantasy Sports 
 - Government
@@ -9,7 +9,7 @@ Hi, I'm Jake,
 - DeFi
 - Fintech / Perpetuals / Order books
 
-## I am the author of
+#### I am the author of
 
 - [ChargeHA](https://github.com/startswithaj/ChargeHA/) - Solar-aware EV charge controller for home automation.
 - [P0RT10N](https://github.com/startswithaj/P0RT10N/) - S3 Orchestrator for sharing disk space with friends.
@@ -17,7 +17,7 @@ Hi, I'm Jake,
 - [Premiarr](https://github.com/startswithaj/Premiarr) - Telegram bot announcing new TV/movie premieres, with Jellyseerr integration for one-tap requests.
 - [DhedgeV2](https://github.com/dhedge/V2-Public) - Asset Management Protocol. 100m+ TVL. No Exploits. Core contributor.
 
-## I have contributed to Open source projects such as
+#### I have contributed to Open source projects such as
 
 - [Backbone.js](https://github.com/jashkenas/backbone) (yes that backbone)
 - [Angular](https://github.com/angular/angular)
@@ -25,20 +25,20 @@ Hi, I'm Jake,
 - [SolidState](https://github.com/solidstate-network/solidstate-solidity)
 - [Hardhat](https://github.com/NomicFoundation/hardhat)
 
-## Found and raised bugs with fixes for
+#### Found and raised bugs with fixes for
 
 - [Sentry](https://github.com/getsentry/sentry)
 - [Deno](https://github.com/denoland/deno)
 - [ERC-2535 Diamonds](https://github.com/mudgen/diamond-2-hardhat/blob/main/COMMENDATION-1.md)
 - Safari WebKit iOS (low level Math.abs bug)
 
-## My 3 favourite programming books
+#### My 3 favourite programming books
 
 - The Pragmatic Programmer by Andrew Hunt and David Thomas
 - Coders at Work by Peter Seibel
 - A Philosophy of Software Design by John Ousterhout
 
-## More about me
+#### More about me
 
 I’ve been a programmer since I was a teenager in 2008. You can see at least 12 years of this activity on GitHub. Love coding and building. It’s a passion. It's expression.
 
