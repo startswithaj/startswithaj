@@ -42,7 +42,7 @@ Hi, I'm Jake,
 
 I’ve been a programmer since I was a teenager. You can see at least 12 years of this activity on GitHub. Love coding and building. It’s a passion. It's expression.
 
-On AI and LLMs: When I first had it reverse engineer a custom binary protocol in 5 minutes - the power of it clicked. This would have been something that would have taken me weeks if ever. That being said it needs strong guardrails to be harnessed without creating a chaotic mess. It will be interesting to observe how these guardrails develop.
+On AI and LLMs: When I first had it reverse engineer a custom binary protocol in 5 minutes - the power of it clicked. This would have been something that would have taken me weeks if ever. That being said it needs strong guardrails to be harnessed without creating a chaotic mess. It will be interesting to observe how these guardrails develop and models mature.
 
 I once saved the Australian federal government tens of millions of dollars a year by finding a bug in their softphone provider's code by reverse engineering it. Ask me about it. 
 
