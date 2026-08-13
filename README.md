@@ -40,11 +40,11 @@ Hi, I'm Jake,
 
 #### More about me:
 
-I’ve been a programmer since I was a teenager in 2008. You can see at least 12 years of this activity on GitHub. Love coding and building. It’s a passion. It's expression.
+I’ve been a programmer since I was a teenager. You can see at least 12 years of this activity on GitHub. Love coding and building. It’s a passion. It's expression.
 
-I love the power of AI/LLM. When I first had it reverse engineer a custom binary protocol in 5 minutes - something that probably would have taken me weeks if ever, I was convinced of its utility. That being said it needs strong guardrails to be harnessed without creating a chaotic mess. 
+On AI and LLMs: When I first had it reverse engineer a custom binary protocol in 5 minutes - the power of it clicked. This would have been something that would have taken me weeks if ever. That being said it needs strong guardrails to be harnessed without creating a chaotic mess. It will be interesting to observe how these guardrails develop.
 
-I saved the Australian federal government tens of millions of dollars a year by finding a bug in their softphone provider's code by reverse engineering it. Ask me about it. 
+I once saved the Australian federal government tens of millions of dollars a year by finding a bug in their softphone provider's code by reverse engineering it. Ask me about it. 
 
 I really enjoy walking my dogs, cooking, tea, and good pho. 🍜 
 
