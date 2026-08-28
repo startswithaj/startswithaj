@@ -15,7 +15,9 @@ Hi, I'm Jake,
 - [P0RT10N](https://github.com/startswithaj/P0RT10N/) - S3 Orchestrator for sharing disk space with friends.
 - [ClaudeBox](https://github.com/startswithaj/ClaudeBox) - Strict Claude Container and VM system.
 - [Premiarr](https://github.com/startswithaj/Premiarr) - Telegram bot announcing new TV/movie premieres, with Jellyseerr integration for one-tap requests.
-- [DhedgeV2](https://github.com/dhedge/V2-Public) - Asset Management Protocol. 100m+ TVL. No Exploits. Core contributor.
+- [Tindarr](https://github.com/startswithaj/tindarr) - Swipe. Match. Watch. Helps groups decide what to watch from your Jellyfin library.
+- [DhedgeV2](https://github.com/dhedge/V2-Public) - Asset Management Protocol. 100m+ TVL. 4 Years. No Exploits. 
+- Silica On Site - Internal CRM for tracking employee silica exposure, 
 
 #### I have contributed to Open source projects such as:
 
