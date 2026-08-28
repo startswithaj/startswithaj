@@ -17,7 +17,8 @@ Hi, I'm Jake,
 - [Premiarr](https://github.com/startswithaj/Premiarr) - Telegram bot announcing new TV/movie premieres, with Jellyseerr integration for one-tap requests.
 - [Tindarr](https://github.com/startswithaj/tindarr) - Swipe. Match. Watch. Helps groups decide what to watch from your Jellyfin library.
 - [DhedgeV2](https://github.com/dhedge/V2-Public) - Asset Management Protocol. 100m+ TVL. 4 Years. No Exploits. 
-- Silica On Site - Internal CRM for tracking employee silica exposure.
+- SilicaOnSite - Internal CRM for tracking and categorising employee silica exposure, PPE, health monitoring and training.
+- EpilogBRT - Behavior Analytics Software used by social workers and healthcare teams to track incidents, map observations, and monitor real-time client wellbeing and activity trends.
 
 #### I have contributed to Open source projects such as:
 
