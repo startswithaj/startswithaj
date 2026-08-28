@@ -17,7 +17,7 @@ Hi, I'm Jake,
 - [Premiarr](https://github.com/startswithaj/Premiarr) - Telegram bot announcing new TV/movie premieres, with Jellyseerr integration for one-tap requests.
 - [Tindarr](https://github.com/startswithaj/tindarr) - Swipe. Match. Watch. Helps groups decide what to watch from your Jellyfin library.
 - [DhedgeV2](https://github.com/dhedge/V2-Public) - Asset Management Protocol. 100m+ TVL. 4 Years. No Exploits. 
-- Silica On Site - Internal CRM for tracking employee silica exposure, 
+- Silica On Site - Internal CRM for tracking employee silica exposure.
 
 #### I have contributed to Open source projects such as:
 
